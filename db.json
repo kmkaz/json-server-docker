@@ -1,0 +1,10 @@
+{
+  "cows": [
+    { "id": 1, "name": "Moo" },
+    { "id": 2, "name": "Boo" }
+  ],
+  "cars": [
+    {"id": "vw1", "name": "Golf"},
+    {"id": "vw2", "name": "Passat"}
+  ]
+}
